@@ -1,4 +1,5 @@
-COMMENT =		Python WSGI HTTP Server for UNIX
+# $OpenBSD$
+COMMENT =		WSGI HTTP server
 
 MODPY_EGG_VERSION =	0.13.4
 DISTNAME =		gunicorn-${MODPY_EGG_VERSION}
