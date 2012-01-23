@@ -1,3 +1,4 @@
+@comment $OpenBSD$
 bin/gunicorn
 bin/gunicorn_django
 bin/gunicorn_paster
