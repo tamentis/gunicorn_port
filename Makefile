@@ -1,12 +1,11 @@
 # $OpenBSD$
+
 COMMENT =		WSGI HTTP server
 
 MODPY_EGG_VERSION =	0.13.4
 DISTNAME =		gunicorn-${MODPY_EGG_VERSION}
 PKGNAME =		py-${DISTNAME}
 CATEGORIES =		www
-
-MAINTAINER =		Bertrand Janin <bertrand@janin.com>
 
 HOMEPAGE =		http://gunicorn.org/
 
